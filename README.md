@@ -48,11 +48,11 @@ To run this project, you need the following Python libraries:
 ## How to Use
 
 Clone the repository:
-'git clone https://github.com/your-username/STAT497-Time-Series-Project.git'
-'cd STAT497-Time-Series-Project'
+'git clone https://github.com/MelihCK/Ether-Price-Forecasting-with-Time-Series-Applications.git'
+'cd Ether-Price-Forecasting-with-Time-Series-Applications'
 
 Open the Jupyter Notebook:
-'jupyter notebook Melih_Can_Kanmaz_STAT497_Project.ipynb'
+'jupyter notebook script.ipynb'
 
 Run all the cells to reproduce the results.
 
