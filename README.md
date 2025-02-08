@@ -24,7 +24,7 @@ Differenced the series to remove trends and make it stationary.
 
 **Model Selection & Forecasting**
 
-![Arima](ARIMA_forecast.png)
+![Arima](ARIMA_forecast.jpg)
 Evaluated multiple models including:
 ARIMA(0,1,3)
 TBATS
