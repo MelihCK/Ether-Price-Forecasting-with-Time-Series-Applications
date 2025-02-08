@@ -23,7 +23,7 @@ Conducted KPSS, ADF, and HEGY tests to check for stationarity.
 Differenced the series to remove trends and make it stationary.
 
 **Model Selection & Forecasting**
-
+![Arima](ARIMA_forecast.png)
 Evaluated multiple models including:
 ARIMA(0,1,3)
 TBATS
