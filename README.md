@@ -12,7 +12,7 @@ Analysis_and _model.html – Rendered version of the Jupyter Notebook, easier to
 README.md – This file. Explanation of the repository.
 
 ## 🔍Methodology
-** 🧹 Data Preprocessing**
+**🧹Data Preprocessing**
 
 Handling missing values and anomalies.
 Applying Box-Cox transformation to stabilize variance.
