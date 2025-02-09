@@ -34,7 +34,7 @@ Neural Networks
 Exponential Smoothing (Simple, Holt’s, Holt-Winter’s)
 📊 Used AIC, BIC, MAPE, MAE, RMSE metrics for model comparison.
 
-**Results & Findings**
+**📋Results & Findings**
 
 Neural Network model outperformed other models in forecasting ETH prices.
 Holt’s Exponential Smoothing was the best among exponential smoothing models.
